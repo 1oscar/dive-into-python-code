@@ -23,4 +23,3 @@ if __name__ == "__main__":
     usock.close()
     for url in parser.urls:
         print url, "Dkf"
-
